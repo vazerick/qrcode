@@ -1,2 +1,6 @@
-Cópia de easy-qr-scan-bot para uso próprio.
-@easyqrscanbot - Telegram QR Code Scanner - Mini App
+Instância de https://github.com/MBoretto/easy-qr-scan-bot para uso próprio
+
+
+
+## Licence
+The code is distrubuted under the [MIT License](./LICENSE)
